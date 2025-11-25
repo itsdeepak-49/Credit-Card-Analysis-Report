@@ -89,4 +89,4 @@ Business can target high-value groups for offers and improve online transaction 
 **Deepak**  
 Data Analyst  
 📧 Email: itsdeepak.049@gmail.com  
-🔗 [LinkedIn](https://https://www.linkedin.com/in/deepak49//)  
+🔗 [LinkedIn] https://www.linkedin.com/in/deepak49/
