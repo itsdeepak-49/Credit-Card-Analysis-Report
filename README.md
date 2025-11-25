@@ -53,8 +53,6 @@ This was a clean dataset with no missing values (or mention if you cleaned).
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-```
-
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
