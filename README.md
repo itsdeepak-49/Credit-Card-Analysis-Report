@@ -67,7 +67,7 @@ Shows:
 - Revenue trend over time
 - Top 5 states by revenue
 
-![Credit-Card-Analysis-Dashboard](Images/Credit Card Customer Report.png)
+![Credit-Card-Analysis-Dashboard](Image/Credit Card Customer Report.png)
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
