@@ -39,19 +39,16 @@ Key columns include:
 - Education
 - Marital Status
 - Age Group
-This was a clean dataset with no missing values (or mention if you cleaned).
+This was a clean dataset with no missing values.
 
 ---
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
 - Power BI – Dashboard and Data Visualization
-- Excel – Initial data cleaning and analysis
+- SQL – Initial data cleaning and analysis
 - DAX – Measures and calculations
 - Power Query – Data transformations
-
----
-<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
@@ -70,9 +67,7 @@ Shows:
 - Revenue trend over time
 - Top 5 states by revenue
 
-![Credit Card Analysis Dashboard](Images/Credit Card Customer Report.png)
-
----
+![Credit-Card-Analysis-Dashboard](Images/Credit Card Customer Report.png)
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
